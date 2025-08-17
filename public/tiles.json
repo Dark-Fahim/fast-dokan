@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Kajaria Ceramic Floor Tile 12x12",
+    "price": "450 BDT",
+    "description": "Durable ceramic floor tile suitable for home and office use with smooth finish.",
+    "image": "https://i.pinimg.com/736x/78/48/17/784817e26fc39559ff79d281fa5d518b.jpg"
+  },
+  {
+    "id": 2,
+    "name": "RAK Glazed Wall Tile 8x12",
+    "price": "320 BDT",
+    "description": "High-quality glazed wall tile with glossy finish and water-resistant coating.",
+    "image": "https://i.pinimg.com/736x/78/48/17/784817e26fc39559ff79d281fa5d518b.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Somany Vitrified Floor Tile 24x24",
+    "price": "1,200 BDT",
+    "description": "Premium vitrified tile for flooring with anti-slip surface and elegant look.",
+    "image": "https://i.pinimg.com/736x/78/48/17/784817e26fc39559ff79d281fa5d518b.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Johnson Ceramic Wall Tile 10x10",
+    "price": "280 BDT",
+    "description": "Durable and stylish wall tile with glossy finish, ideal for kitchens and bathrooms.",
+    "image": "https://i.pinimg.com/736x/78/48/17/784817e26fc39559ff79d281fa5d518b.jpg"
+  }
+]

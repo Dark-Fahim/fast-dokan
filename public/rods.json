@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Shimano Solora Spinning Rod",
+    "price": "5,500 BDT",
+    "description": "Lightweight and durable spinning rod suitable for freshwater fishing with excellent sensitivity.",
+    "image": "https://i.pinimg.com/1200x/37/be/be/37bebe71c3193925e06a62b12dfa0493.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Daiwa Sweepfire Surf Rod",
+    "price": "8,200 BDT",
+    "description": "High-performance surf rod for long-distance casting and strong builds to handle big catches.",
+    "image": "https://i.pinimg.com/1200x/37/be/be/37bebe71c3193925e06a62b12dfa0493.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ugly Stik GX2 Casting Rod",
+    "price": "6,800 BDT",
+    "description": "Durable and reliable casting rod with fiberglass construction, ideal for beginners and pros.",
+    "image": "https://i.pinimg.com/1200x/37/be/be/37bebe71c3193925e06a62b12dfa0493.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Okuma Celilo Fly Rod",
+    "price": "7,500 BDT",
+    "description": "Lightweight fly rod with carbon construction, perfect for trout and small stream fishing.",
+    "image": "https://i.pinimg.com/1200x/37/be/be/37bebe71c3193925e06a62b12dfa0493.jpg"
+  }
+]

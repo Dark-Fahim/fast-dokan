@@ -2,7 +2,7 @@
 
 const Products = () => {
     return (
-        <div>
+        <div className="bg-black w-screen h-screen">
             
         </div>
     );

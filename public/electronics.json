@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Sony Bravia 55\" 4K TV",
+    "price": "85,000 BDT",
+    "description": "Ultra HD Smart TV with Android, HDR support, and immersive sound quality.",
+    "image": "https://i.pinimg.com/1200x/39/cd/91/39cd91d6c49ddb01927ad305b94d5504.jpg"
+  },
+  {
+    "id": 2,
+    "name": "LG Front Load Washing Machine",
+    "price": "45,000 BDT",
+    "description": "Efficient washing machine with inverter motor, multiple wash programs, and energy saving.",
+    "image": "https://i.pinimg.com/1200x/39/cd/91/39cd91d6c49ddb01927ad305b94d5504.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bose QuietComfort 45 Headphones",
+    "price": "25,000 BDT",
+    "description": "Wireless noise-canceling headphones with superior comfort and deep sound.",
+    "image": "https://i.pinimg.com/1200x/39/cd/91/39cd91d6c49ddb01927ad305b94d5504.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Apple MacBook Air M2",
+    "price": "190,000 BDT",
+    "description": "Ultra-thin laptop with Apple M2 chip, Retina display, and long-lasting battery.",
+    "image": "https://i.pinimg.com/1200x/39/cd/91/39cd91d6c49ddb01927ad305b94d5504.jpg"
+  }
+]

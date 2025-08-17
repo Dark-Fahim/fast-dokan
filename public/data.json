@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "type": "phone",
+    "name": "iPhone 15 Pro",
+    "price": "119,880 BDT",
+    "description": "Apple’s latest flagship with A17 Pro chip, titanium design, and ProMotion display.",
+    "image": "https://i.pinimg.com/736x/b8/a1/bf/b8a1bf75ee626940d63585279757bf7c.jpg"
+  },
+  {
+    "id": 2,
+    "type": "phone",
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": "143,880 BDT",
+    "description": "Premium Android with S Pen, 200MP camera, and Snapdragon 8 Gen 3 performance.",
+    "image": "https://i.pinimg.com/736x/b8/a1/bf/b8a1bf75ee626940d63585279757bf7c.jpg"
+  },
+  {
+    "id": 3,
+    "type": "phone",
+    "name": "Google Pixel 8 Pro",
+    "price": "107,880 BDT",
+    "description": "Google’s AI-powered phone with Tensor G3 chip and outstanding computational photography.",
+    "image": "https://i.pinimg.com/736x/b8/a1/bf/b8a1bf75ee626940d63585279757bf7c.jpg"
+  },
+  {
+    "id": 4,
+    "type": "phone",
+    "name": "OnePlus 12",
+    "price": "95,880 BDT",
+    "description": "High-performance phone with 120Hz AMOLED display, Snapdragon 8 Gen 3, and fast charging.",
+    "image": "https://i.pinimg.com/736x/b8/a1/bf/b8a1bf75ee626940d63585279757bf7c.jpg"
+  },
+  {
+    "id": 5,
+    "type": "phone",
+    "name": "Xiaomi 14 Pro",
+    "price": "89,880 BDT",
+    "description": "Affordable flagship featuring Leica cameras, Snapdragon 8 Gen 3, and sleek design.",
+    "image": "https://i.pinimg.com/736x/b8/a1/bf/b8a1bf75ee626940d63585279757bf7c.jpg"
+  },
+  {
+    "id": 6,
+    "type": "phone",
+    "name": "Realme GT 5 Pro",
+    "price": "72,880 BDT",
+    "description": "A performance-focused phone with Snapdragon 8 Gen 3, 144Hz AMOLED display, and 100W fast charging.",
+    "image": "https://i.pinimg.com/736x/b8/a1/bf/b8a1bf75ee626940d63585279757bf7c.jpg"
+  },
+  {
+    "id": 7,
+    "type": "rod",
+    "name": "Shimano Solora Spinning Rod",
+    "price": "5,500 BDT",
+    "description": "Lightweight and durable spinning rod suitable for freshwater fishing with excellent sensitivity.",
+    "image": "https://i.pinimg.com/1200x/37/be/be/37bebe71c3193925e06a62b12dfa0493.jpg"
+  },
+  {
+    "id": 8,
+    "type": "rod",
+    "name": "Daiwa Sweepfire Surf Rod",
+    "price": "8,200 BDT",
+    "description": "High-performance surf rod for long-distance casting and strong builds to handle big catches.",
+    "image": "https://i.pinimg.com/1200x/37/be/be/37bebe71c3193925e06a62b12dfa0493.jpg"
+  },
+  {
+    "id": 9,
+    "type": "rod",
+    "name": "Ugly Stik GX2 Casting Rod",
+    "price": "6,800 BDT",
+    "description": "Durable and reliable casting rod with fiberglass construction, ideal for beginners and pros.",
+    "image": "https://i.pinimg.com/1200x/37/be/be/37bebe71c3193925e06a62b12dfa0493.jpg"
+  },
+  {
+    "id": 10,
+    "type": "rod",
+    "name": "Okuma Celilo Fly Rod",
+    "price": "7,500 BDT",
+    "description": "Lightweight fly rod with carbon construction, perfect for trout and small stream fishing.",
+    "image": "https://i.pinimg.com/1200x/37/be/be/37bebe71c3193925e06a62b12dfa0493.jpg"
+  },
+  {
+    "id": 11,
+    "type": "electronics",
+    "name": "Sony Bravia 55\" 4K TV",
+    "price": "85,000 BDT",
+    "description": "Ultra HD Smart TV with Android, HDR support, and immersive sound quality.",
+    "image": "https://i.pinimg.com/1200x/39/cd/91/39cd91d6c49ddb01927ad305b94d5504.jpg"
+  },
+  {
+    "id": 12,
+    "type": "electronics",
+    "name": "LG Front Load Washing Machine",
+    "price": "45,000 BDT",
+    "description": "Efficient washing machine with inverter motor, multiple wash programs, and energy saving.",
+    "image": "https://i.pinimg.com/1200x/39/cd/91/39cd91d6c49ddb01927ad305b94d5504.jpg"
+  },
+  {
+    "id": 13,
+    "type": "electronics",
+    "name": "Bose QuietComfort 45 Headphones",
+    "price": "25,000 BDT",
+    "description": "Wireless noise-canceling headphones with superior comfort and deep sound.",
+    "image": "https://i.pinimg.com/1200x/39/cd/91/39cd91d6c49ddb01927ad305b94d5504.jpg"
+  },
+  {
+    "id": 14,
+    "type": "electronics",
+    "name": "Apple MacBook Air M2",
+    "price": "190,000 BDT",
+    "description": "Ultra-thin laptop with Apple M2 chip, Retina display, and long-lasting battery.",
+    "image": "https://i.pinimg.com/1200x/39/cd/91/39cd91d6c49ddb01927ad305b94d5504.jpg"
+  },
+  {
+    "id": 15,
+    "type": "tiles",
+    "name": "Kajaria Ceramic Floor Tile 12x12",
+    "price": "450 BDT",
+    "description": "Durable ceramic floor tile suitable for home and office use with smooth finish.",
+    "image": "https://i.pinimg.com/736x/78/48/17/784817e26fc39559ff79d281fa5d518b.jpg"
+  },
+  {
+    "id": 16,
+    "type": "tiles",
+    "name": "RAK Glazed Wall Tile 8x12",
+    "price": "320 BDT",
+    "description": "High-quality glazed wall tile with glossy finish and water-resistant coating.",
+    "image": "https://i.pinimg.com/736x/78/48/17/784817e26fc39559ff79d281fa5d518b.jpg"
+  },
+  {
+    "id": 17,
+    "type": "tiles",
+    "name": "Somany Vitrified Floor Tile 24x24",
+    "price": "1,200 BDT",
+    "description": "Premium vitrified tile for flooring with anti-slip surface and elegant look.",
+    "image": "https://i.pinimg.com/736x/78/48/17/784817e26fc39559ff79d281fa5d518b.jpg"
+  },
+  {
+    "id": 18,
+    "type": "tiles",
+    "name": "Johnson Ceramic Wall Tile 10x10",
+    "price": "280 BDT",
+    "description": "Durable and stylish wall tile with glossy finish, ideal for kitchens and bathrooms.",
+    "image": "https://i.pinimg.com/736x/78/48/17/784817e26fc39559ff79d281fa5d518b.jpg"
+  }
+]

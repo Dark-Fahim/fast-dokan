@@ -37,7 +37,7 @@ const Phones = () => {
     // ];
     const [phones, setPhones] = useState([])
     useEffect(() => {
-        fetch('phones.json')
+        fetch('data.json')
         .then(res => res.json())
         .then(data => setPhones(data))
     } , [])
