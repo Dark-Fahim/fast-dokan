@@ -79,12 +79,12 @@ const AllCategories = () => {
             </div>
             <div className="flex md:hidden gap-4 overflow-x-auto scrollbar-thin scrollbar-thumb-gray-400 scrollbar-track-gray-200 p-2">
                 <div>
-                    <Category img={phoneImg} title={'Phones'}></Category>
-                    <Category img={electronics} title={'By Cycle'}></Category>
+                    <Link to={'/categories'}><Category img={phoneImg} title={'Phones'}></Category></Link>
+                    <Link to={'/categories'}><Category img={electronics} title={'By Cycle'}></Category></Link>
                 </div>
                 <div>
-                    <Category img={rods} title={'Cattle Feed'}></Category>
-                    <Category img={tiles} title={'Cement'}></Category>
+                    <Link to={'/categories'}><Category img={rods} title={'Cattle Feed'}></Category></Link>
+                    <Link to={'/categories'}><Category img={tiles} title={'Cement'}></Category></Link>
                 </div>
                 <div>
                     <Category img={ceramics} title={'Ceramics'}></Category>
