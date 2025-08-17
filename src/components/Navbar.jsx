@@ -37,7 +37,7 @@ const Navbar = () => {
                 <div><a className="btn primary-bg md:p-6 text-sm p-2 md:text-lg text-white">Login</a></div>
             </div>
 
-            <div className="flex flex-col justify-between items-center">
+            <div className="flex flex-col md:flex-row justify-between items-center">
 
 
                 <div className="flex justify-start items-center gap-6 p-2 list-none text-lg">
