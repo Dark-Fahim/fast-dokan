@@ -4,7 +4,7 @@ import { FaArrowAltCircleRight } from "react-icons/fa";
 const ShopLOcations = () => {
     return (
         <div className='px-2 mt-2 space-y-4'>
-            <h2 className='text-3xl font-bold mb-3'>Search by Locations</h2>
+            <h2 className='text-2xl font-bold mb-3'>Search by Locations</h2>
 
             <div className="dropdown dropdown-right">
                 <div tabIndex={0} role="button" className="btn m-1">Dhaka <FaArrowAltCircleRight  className="text-[#06923E] text-xl"/></div>

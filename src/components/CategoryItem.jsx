@@ -3,7 +3,7 @@
 const CategoryItem = ({item}) => {
     const {name, price, description, image} = item
     return (
-        <div className="card shadow-lg bg-base-100  ring-4 ring-[#16a34a]">
+        <div className="card shadow-lg bg-base-100 border-2 border-t-red-500 border-b-red-400 border-l-green-400  border-r-green-400">
             <figure>
                 <div className='bg-[] rounded-lg m-4 flex justify-center'>
                     <img
