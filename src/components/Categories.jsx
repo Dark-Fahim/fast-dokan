@@ -5,7 +5,7 @@ import CategoryLists from './CategoryLists';
 
 const Categories = () => {
     return (
-        <div className='border-2 min-h-[500px] grid gap-5 mt-5 grid-cols-5'>
+        <div className='min-h-[500px] grid gap-5 mt-5 grid-cols-5 container p-4'>
             <div className=' border-2 border-red-400 '>
                 <ShopLOcations></ShopLOcations>
             </div>

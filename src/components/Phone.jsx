@@ -1,14 +1,14 @@
 
 
 const Phone = ({phone, img}) => {
-    const {name, price, description} = phone
+    const {name, price, description, image} = phone
     return (
         <div className="card shadow-lg bg-base-100  ring-4 ring-[#16a34a]">
             <figure>
-                <div className='bg-[#16a34a1a] rounded-lg m-4'>
+                <div className='bg-[] rounded-lg m-4 flex justify-center'>
                     <img
-                        src={img}
-                        alt="Shoes" className='h-72 lg:h-full ' />
+                        src={image}
+                        alt="Shoes" className='w-1/2 ' />
                 </div>
             </figure>
             <div className="card-body">
