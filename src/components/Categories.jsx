@@ -44,13 +44,13 @@ const Categories = () => {
     }
     return (
         <div className='min-h-[500px] grid gap-5 mt-5 grid-cols-5 container p-4'>
-            <div className=''>
+            <div className='hidden md:block'>
                 <ShopLOcations></ShopLOcations>
             </div>
-            <div className=' col-span-3'>
+            <div className='col-span-5 md:col-span-3'>
                 <CategoryItems data={data}></CategoryItems>
             </div>
-            <div className=''>
+            <div className='hidden md:block'>
                 <CategoryLists handleProductFilter={handleProductFilter} active={active}></CategoryLists>
             </div>
         </div>
