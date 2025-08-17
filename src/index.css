@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Sora:wght@100..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.manrope {
+    font-family: "Manrope", sans-serif;
+}
+
+/* .active {
+    background-color: #06923E;
+    padding: 8px;
+    color: white;
+    font-weight: 600; */
+/* } */
+a.active {
+    color: #06923E;
+    background-color: none;
+    
+}
+
+.title {
+    color: #212121;
+}
+
+.primary-c {
+    color: #06923E;
+}
+
+.primary-bg {
+    background-color: #16a34a;
+}
