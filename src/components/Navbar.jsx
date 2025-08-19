@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom";
 import logo from '../assets/logo.png'
-import { CiSearch, CiHeart, CiShoppingCart } from "react-icons/ci";
+// import { CiSearch, CiHeart, CiShoppingCart } from "react-icons/ci";
 import { FaOpencart } from "react-icons/fa";
 import { useState } from "react";
 import { IoIosSearch } from "react-icons/io";
